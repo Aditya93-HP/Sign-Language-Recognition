@@ -45,7 +45,7 @@ To get started with the Sign Language Recognition application, follow these step
 
 1. **Clone the Repository**: 
    ```bash
-   git clone https://github.com/davidlopez1190/Sign-Language-Recognition.git
+   git clone https://github.com/Aditya93-HP/Sign-Language-Recognition
    ```
    
 2. **Navigate to the Project Directory**:
